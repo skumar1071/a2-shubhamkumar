@@ -1,5 +1,7 @@
 ## Shubham's Workout Tracker
 
+**Live Site:** https://a2-shubhamkumar.onrender.com/
+
 Workout Tracker is a single-page web application that allows users to log strength-training exercises and view the current workout dataset stored on the server. Users can add, edit, and delete workout entries. The server automatically calculates total training volume using the formula `sets × reps × weight`.
 
 ## Technical Achievements
